@@ -1,8 +1,8 @@
 {
-    "name": "davefx/phplot",
+    "name": "myfarms/phplot",
     "description": "PHPlot - Create charts in PHP",
     "keywords": [ "phplot", "chart" ],
-    "homepage": "http://phplot.sourceforge.net",
+    "homepage": "https://github.com/myfarms/PHPlot",
     "license": "LGPL",
     "require": {
         "php": ">5.3.0"
